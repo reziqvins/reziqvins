@@ -1,9 +1,9 @@
 [![Header](https://github.com/reziqvins/reziqvins/blob/5ad1f52a35b543be05049f1d91bef8b7df026c85/banner.png "Header")]()
 
 # Hellooooo     ||     Still In Progress! <img src="https://github.com/reziqvins/reziqvins/blob/5ad1f52a35b543be05049f1d91bef8b7df026c85/wave.gif" width="30px" height="30px" />
-<h3 align='center'>
+
  🚀 Languages and Tools AND 📊 My Github Statistics
- </h3>
+
  
 <p align='center'>
 <a href="https://github.com/reziqvins">
