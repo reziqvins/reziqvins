@@ -4,8 +4,7 @@
 
 <p align='center'>See My UI/UX Design Portfolio
 <a href="https://drive.google.com/file/d/1pKwe6vM9bRA98XYqfpD5QPbEBJVBF37_/view?usp=sharing">Click Me !</a> </p>
- 
-<h1 align='center'> 🚀 Languages and Tools AND 📊 My Github Statistics</h1>
+
 
 <p align='center'>
 <a href="https://github.com/reziqvins">
@@ -14,4 +13,16 @@
  <a href="https://github.com/reziqvins">
 <img alt="reziqvins streak" src="https://github-readme-streak-stats.herokuapp.com/?user=reziqvins&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=0D1117"/>
 </a>
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
+<p align="center">
+<a href="mailto: nreziq@gmail.com">
+ <img src="https://img.shields.io/badge/-ReziqVins-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nreziq@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/muhammad-reziq-darusman/">
+ <img src="https://img.shields.io/badge/-reziqvins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-reziq-darusman"/>
+</a>
+<a href="https://www.instagram.com/reziq_vins/"> 
+ <img src="https://img.shields.io/badge/-ReziqVins-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com /reziq_vins"/>
+</a>
+</p>
