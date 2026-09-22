@@ -35,6 +35,6 @@ const reziq = {
     role: "Software Quality Assurance Engineer",
     currentFocus: "SIT & UAT Testing for Financial Transaction Systems",
     education: "D-IV Informatics Engineering (GPA 3.71)",
-    hobbies: ["Custom Hardware Modding", "OpenWrt Networking", "LiFePO4 Battery Assembly"],
+    hobbies: ["Custom Hardware Modding", "OpenWrt Networking", "Electrical Modding"],
     quote: "Ensuring code quality by day, tinkering with hardware by night."
 };
