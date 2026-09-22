@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Typing Animation -->
-  <h1>Hi, I'm <a href="https://linkedin.com/in/muhammad-reziq-darusman/">Muhammad Reziq Darusman</a> 👋</h1>
+  <h1>Hi, I'm <a href="https://linkedin.com/in/muhammadreziqdarusman/">Muhammad Reziq Darusman</a> 👋</h1>
 
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FABD2F&center=true&vCenter=true&width=550&lines=Software+Quality+Assurance+Engineer;Financial+System+%26+ATM+Controller+Tester;API+%7C+Performance+%7C+Automation+Testing;Hardware+%26+Networking+Modding+Enthusiast" alt="Typing SVG" />
