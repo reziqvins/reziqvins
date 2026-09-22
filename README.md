@@ -1,15 +1,43 @@
-# ⚡ Hello World! I'm Reziq <img src="https://github.com/reziqvins/reziqvins/blob/5ad1f52a35b543be05049f1d91bef8b7df026c85/wave.gif" width="28px" />
+<div align="center">
 
-> *"Still in progress, learning and building every day."*
+  <!-- Header Typing Animation -->
+  <h1>Hi, I'm <a href="https://linkedin.com/in/muhammad-reziq-darusman/">Muhammad Reziq Darusman</a> 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-reziq-darusman/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nreziq@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/reziq_vins/)
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FABD2F&center=true&vCenter=true&width=550&lines=Software+Quality+Assurance+Engineer;Financial+System+%26+ATM+Controller+Tester;API+%7C+Performance+%7C+Automation+Testing;Hardware+%26+Networking+Modding+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Interactive Social Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/muhammad-reziq-darusman/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:nreziq@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://instagram.com/reziq_vins">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
+
+  <!-- Visitor Counter (Interaktif) -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=reziqvins&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Counter"/>
+  </p>
+
+</div>
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reziqvins&langs_count=6&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117" width="48%" alt="Reziq Top Languages" />
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reziqvins&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=0D1117" width="48%" />
-</p>
+### 👨‍💻 About Me
+
+```javascript
+const reziq = {
+    role: "Software Quality Assurance Engineer",
+    currentFocus: "SIT & UAT Testing for Financial Transaction Systems",
+    education: "D-IV Informatics Engineering (GPA 3.71)",
+    hobbies: ["Custom Hardware Modding", "OpenWrt Networking", "LiFePO4 Battery Assembly"],
+    quote: "Ensuring code quality by day, tinkering with hardware by night."
+};
