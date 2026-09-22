@@ -9,6 +9,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reziqvins&langs_count=6&count_private=true&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117" width="48%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reziqvins&langs_count=6&count_private=true&layout=compact&theme=gruvbox&hide_border=true&border_radius=10&bg_color=0D1117" width="48%" alt="Reziq Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reziqvins&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=0D1117" width="48%" />
 </p>
